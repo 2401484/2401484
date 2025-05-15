@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "temp_website"
+  favicon: favicon.png
+  navbar:
+    logo: logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: aboutnotme.qmd
+        text: About not me
+      - href: travelexperience.qmd
+        text: travelexperience
+      - href: reflection.qmd
+        text: reflection
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-location: left
+
+
+
