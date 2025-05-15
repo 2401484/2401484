@@ -1,0 +1,57 @@
+---
+title: "reflection"
+format: html
+---
+
+# Reflection on the Use of GenAI
+
+## What GenAI Tool Did I Use?
+
+I used [**ChatGPT**](https://chat.openai.com) by OpenAI.
+
+I chose it because it is easy to talk to, fast, and gives helpful answers. I can ask it to explain things step by step.
+
+---
+
+## How It Helped Me
+
+Here are some examples:
+
+- It helped me create the content like `aboutnotme.qmd` and `travel.qmd`.
+- It helped me fix mistakes I didn’t understand by giving suggestions.
+- It guided me on how to update `_quarto.yml`.
+
+---
+
+## Benefits
+
+- Fast and always ready to help.
+- Clear answers in plain English.
+- Helps when I don’t understand instructions.
+
+---
+
+## Challenges
+
+- Sometimes the answer is too long or too complicated.
+- I need to double-check if the answer is correct.
+- It doesn’t always know exactly what I mean unless I am very clear.
+
+> "Even though the tool is smart, I still need to think for myself."  
+> — My own reflection
+
+---
+
+## Screenshot of How It Helped
+
+![Screenshot of ChatGPT helping me](chatgpt-help.png)
+
+---
+
+## How It Can Help Me in Future
+
+- I can use GenAI to help me with coding, writing, and explaining things I don’t understand.
+- I can use it to prepare presentations and clean up my writing.
+
+---
+

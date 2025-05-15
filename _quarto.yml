@@ -10,7 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: aboutnotme.qmd
+        text: About not me
+      - href: travelexperience.qmd
+        text: travelexperience
+      - href: reflection.qmd
+        text: reflection
 
 format:
   html:

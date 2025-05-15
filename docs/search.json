@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "temp_website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "👋 Welcome to My Website\nHi! I’m Aloysius, I’m a memecoin trader. Sell the bottom. Buy the top."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,96 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#a-glimpse-of-me",
+    "href": "index.html#a-glimpse-of-me",
+    "title": "temp_website",
+    "section": "",
+    "text": "This is me"
+  },
+  {
+    "objectID": "index.html#heres-a-little-code-example",
+    "href": "index.html#heres-a-little-code-example",
+    "title": "temp_website",
+    "section": "",
+    "text": "1 + 1"
+  },
+  {
+    "objectID": "aboutnotme.html",
+    "href": "aboutnotme.html",
+    "title": "About not me",
+    "section": "",
+    "text": "My Journey Before SIT\nBefore joining SIT, I pursued a diploma in Business Intelligence and Analytics, where I developed a strong foundation in using data to drive smarter business decisions.\nDuring that time, I was exposed to a mix of technical and business subjects, including: - Data visualization using tools like Tableau and Power BI - Basic data modeling and SQL - Predictive analytics using Excel and R - Business strategy and case analysis\nAlthough I didn’t have a formal Final Year Project, I worked on several mini-projects and coursework that helped sharpen my ability to extract insights from messy data and communicate them clearly.\nThis experience sparked my interest in data-driven decision making — which is what led me to continue exploring analytics at a deeper level in SIT.\n\n\n\nWhat I Gained\n\nA solid grasp of BI tools and dashboards\n\nThe ability to communicate findings to both technical and non-technical stakeholders\n\nCuriosity to explore more advanced machine learning and AI applications"
+  },
+  {
+    "objectID": "aboutnotme.html#what-i-gained",
+    "href": "aboutnotme.html#what-i-gained",
+    "title": "About not me",
+    "section": "",
+    "text": "A solid grasp of BI tools and dashboards\n\nThe ability to communicate findings to both technical and non-technical stakeholders\n\nCuriosity to explore more advanced machine learning and AI applications"
+  },
+  {
+    "objectID": "travelexperience.html",
+    "href": "travelexperience.html",
+    "title": "travelexperience",
+    "section": "",
+    "text": "My Travel Experience\nOne of my favourite ways to reset and reflect is through travel. Whether it’s short weekend getaways or long-haul flights, I enjoy exploring new cultures, foods, and the way people live."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "reflection",
+    "section": "",
+    "text": "I used ChatGPT by OpenAI.\nI chose it because it is easy to talk to, fast, and gives helpful answers. I can ask it to explain things step by step.\n\n\n\n\nHere are some examples:\n\nIt helped me create the content like aboutnotme.qmd and travel.qmd.\nIt helped me fix mistakes I didn’t understand by giving suggestions.\nIt guided me on how to update _quarto.yml.\n\n\n\n\n\n\nFast and always ready to help.\nClear answers in plain English.\nHelps when I don’t understand instructions.\n\n\n\n\n\n\nSometimes the answer is too long or too complicated.\nI need to double-check if the answer is correct.\nIt doesn’t always know exactly what I mean unless I am very clear.\n\n\n“Even though the tool is smart, I still need to think for myself.”\n— My own reflection\n\n\n\n\n\n\n\n\nScreenshot of ChatGPT helping me\n\n\n\n\n\n\n\nI can use GenAI to help me with coding, writing, and explaining things I don’t understand.\nI can use it to prepare presentations and clean up my writing."
+  },
+  {
+    "objectID": "reflection.html#what-genai-tool-did-i-use",
+    "href": "reflection.html#what-genai-tool-did-i-use",
+    "title": "reflection",
+    "section": "",
+    "text": "I used ChatGPT by OpenAI.\nI chose it because it is easy to talk to, fast, and gives helpful answers. I can ask it to explain things step by step."
+  },
+  {
+    "objectID": "reflection.html#how-it-helped-me",
+    "href": "reflection.html#how-it-helped-me",
+    "title": "reflection",
+    "section": "",
+    "text": "Here are some examples:\n\nIt helped me create the content like aboutnotme.qmd and travel.qmd.\nIt helped me fix mistakes I didn’t understand by giving suggestions.\nIt guided me on how to update _quarto.yml."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "reflection",
+    "section": "",
+    "text": "Fast and always ready to help.\nClear answers in plain English.\nHelps when I don’t understand instructions."
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "reflection",
+    "section": "",
+    "text": "Sometimes the answer is too long or too complicated.\nI need to double-check if the answer is correct.\nIt doesn’t always know exactly what I mean unless I am very clear.\n\n\n“Even though the tool is smart, I still need to think for myself.”\n— My own reflection"
+  },
+  {
+    "objectID": "reflection.html#how-it-can-help-me-in-future",
+    "href": "reflection.html#how-it-can-help-me-in-future",
+    "title": "reflection",
+    "section": "",
+    "text": "I can use GenAI to help me with coding, writing, and explaining things I don’t understand.\nI can use it to prepare presentations and clean up my writing."
+  },
+  {
+    "objectID": "reflection.html#final-thoughts",
+    "href": "reflection.html#final-thoughts",
+    "title": "reflection",
+    "section": "",
+    "text": "GenAI tools like ChatGPT are very helpful for someone like me who prefers short, clear instructions and step-by-step help. It makes working on projects feel less stressful."
+  },
+  {
+    "objectID": "reflection.html#screenshot-of-how-it-helped",
+    "href": "reflection.html#screenshot-of-how-it-helped",
+    "title": "reflection",
+    "section": "",
+    "text": "Screenshot of ChatGPT helping me"
   }
 ]

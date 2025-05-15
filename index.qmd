@@ -1,11 +1,11 @@
 ---
 title: "temp_website"
+format: html
 ---
 
-This is a Quarto website.
+# 👋 Welcome to My Website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I’m **Aloysius**, I’m a **memecoin trader**. Sell the bottom. Buy the top. 
 
-```{r}
-1 + 1
-```
+---
+

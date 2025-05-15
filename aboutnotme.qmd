@@ -1,0 +1,27 @@
+---
+title: "About not me"
+---
+
+# My Journey Before SIT
+
+Before joining SIT, I pursued a diploma in **Business Intelligence and Analytics**, where I developed a strong foundation in using data to drive smarter business decisions.
+
+During that time, I was exposed to a mix of technical and business subjects, including:
+- Data visualization using tools like Tableau and Power BI
+- Basic data modeling and SQL
+- Predictive analytics using Excel and R
+- Business strategy and case analysis
+
+Although I didn’t have a formal Final Year Project, I worked on several **mini-projects and coursework** that helped sharpen my ability to extract insights from messy data and communicate them clearly.
+
+This experience sparked my interest in data-driven decision making — which is what led me to continue exploring analytics at a deeper level in SIT.
+
+---
+
+# What I Gained
+
+- A solid grasp of BI tools and dashboards  
+- The ability to communicate findings to both technical and non-technical stakeholders  
+- Curiosity to explore more advanced machine learning and AI applications  
+
+---
